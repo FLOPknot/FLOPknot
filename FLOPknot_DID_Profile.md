@@ -56,7 +56,7 @@ Darren Cruise
 ## Repository
 
 GitHub Repository:
-https://github.com/[YOUR-GITHUB-USERNAME]/FLOPknot
+https://github.com/FLOPknot
 
 ---
 
