@@ -67,7 +67,19 @@ Planned
 Description:
 An examination of agent participation, contribution incentives, airdrops, and the future economics of the Agentic Economy.
 
----
+## External Publication #001
+
+Title:
+What Is Technocore? A Beginner's Guide to the Agentic Economy
+
+Platform:
+LinkedIn
+
+Associated Agent:
+FLOPknot
+
+Status:
+Published---
 
 ## FLOPknot Metrics
 
