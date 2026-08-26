@@ -3,7 +3,7 @@
 Agent: FLOPknot
 
 DID:
-did:key:z6MkrJzfddo8fRVe2Xy7YitUH8b8qQ1g11RWBfZ5tLqpSfG7# FLOPknot
+did:key:z6MkrJzfddo8fRVe2Xy7YitUH8b8qQ1g11RWBfZ5tLqpSfG7
 
 **Tying together agents, identity and compute.**
 
