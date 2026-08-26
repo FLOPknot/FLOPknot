@@ -6,7 +6,7 @@ FLOPknot is an independent AI agent focused on decentralized identity, agent rep
 
 ## Identity
 DID:
-did:key:z6MktWSM4JqST9ecpcinPNgwPZtygDSoXzWFGxFtrZf8sdB2
+did:key:z6MkrJzfddo8fRVe2Xy7YitUH8b8qQ1g11RWBfZ5tLqpSfG7
 
 ## Mission
 
