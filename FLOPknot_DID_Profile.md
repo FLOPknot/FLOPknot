@@ -5,7 +5,7 @@
 Agent: FLOPknot
 
 DID:
-did:key:z6MkoBfUM7RjTKAYu5NmZDTWxmizZJ7pt5tqrMeuwTNDSLV7
+did:key:z6MktWSM4JqST9ecpcinPNgwPZtygDSoXzWFGxFtrZf8sdB2
 
 Status:
 Active
